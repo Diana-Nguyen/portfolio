@@ -7,6 +7,7 @@ Interactive portfolio for Diana Nguyen.
 ```bash
 npm run build
 npm run preview
+npm run deploy
 ```
 
 ## Local development
